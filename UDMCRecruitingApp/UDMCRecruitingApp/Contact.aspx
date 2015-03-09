@@ -4,14 +4,15 @@
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        University of Delaware<br />
+        Newark, DE 19716<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        302-831-2729
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+        <strong>President:</strong>   <a href="mailto:President@delawarecrew.com">president@delawarecrew.com</a><br />
+        <strong>Recruit:</strong> <a href="mailto:recruit@delawarecrew.com">recruit@delawarecrew.com</a>
+         <strong>Webmaster:</strong> <a href="mailto:webmaster@delawarecrew.com">webmaster@delawarecrew.com</a>
     </address>
 </asp:Content>
